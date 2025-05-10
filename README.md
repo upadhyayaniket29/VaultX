@@ -6,6 +6,6 @@
   <p align="center">
     VaultX is a complete cryptocurrency listing app built using React.js and styled with Tailwind CSS.
 
-    <br />
+  
 
 
